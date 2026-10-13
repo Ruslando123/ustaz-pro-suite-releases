@@ -1,8 +1,8 @@
 {
-  "latest": "0.1.92",
+  "latest": "0.1.93",
   "minSupported": "0.1.0",
-  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.92/UstazProLego-setup.exe",
-  "notes": "Первый общий тестовый выпуск. Обновления доступны через интернет из приложения. Исправлен вход после выбора аккаунта.",
-  "sha256": "18ED11BEE129763E34F4EDC2A456B2DADC9096EE74F1BABAB332BD96D5576BEF",
-  "sizeBytes": 73482752
+  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.93/UstazProLego-setup.exe",
+  "notes": "Тестовое обновление 0.1.93 для проверки обновления внутри приложения. Проверьте скачивание, установку по кнопке и повторный запуск LEGO.",
+  "sha256": "6C61E874A8C78B8AE62CB05A89DEFC5BE4B9D4EFB08B84D5C67F6A5469B984D8",
+  "sizeBytes": 73503232
 }
