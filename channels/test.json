@@ -1,8 +1,8 @@
 {
-  "latest": "0.1.94",
-  "minSupported": "0.1.0",
-  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.94/UstazProLego-setup.exe",
-  "notes": "Тестовое обновление 0.1.94. Проверьте обновление по кнопке «Обновить сейчас»: после установки приложение должно показать версию 0.1.94.0. Исправление входа сохранено.",
-  "sha256": "D625D64535B8BB93DF580A567EF127AF78B03E7594D1119CB86260DDCD8AD133",
-  "sizeBytes": 73499136
+    "latest":  "0.1.96",
+    "minSupported":  "0.1.0",
+    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.96/UstazProLego-setup.exe",
+    "notes":  "Обновлённое оформление LEGO: цветная лента, единые окна и карточки. В диалоговом тренажёре — четыре фотореалистичных персонажа с пятью выразительными эмоциями; старые рисунки убраны из галереи.",
+    "sha256":  "3EB4561F7E7F3A460273A50390BCD75ED478EA01CEEA7820BBBB82D46967E309",
+    "sizeBytes":  118948352
 }
