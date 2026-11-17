@@ -1,8 +1,8 @@
 {
-  "latest": "0.1.126",
+  "latest": "0.1.127",
   "minSupported": "0.1.0",
-  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.126/UstazProLego-setup.exe",
-  "notes": "Исправлены последовательное прохождение слайдов, размеры тестов и интерактивностей в просмотре и публикации, остановка записи экрана и видимость элементов редакторов. Обновлён единый дизайн кнопок выбора изображения.",
-  "sha256": "DD207C4FB5AD6BA274B174403FD8028E8AED7625200C96E8C43385E1B8B0BD6D",
-  "sizeBytes": 121694208
+  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.127/UstazProLego-setup.exe",
+  "notes": "Оптимизация видео без потери качества, надёжная отмена и закрытие записи экрана и видеопроекта.",
+  "sha256": "AB095E2549DE4A326321ED2AC721393F4CFD61EEC6BF920C42C4899BF86628C1",
+  "sizeBytes": 121698304
 }
