@@ -1,8 +1,8 @@
 {
-    "latest":  "0.1.134",
+    "latest":  "0.1.141",
     "minSupported":  "0.1.0",
-    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.134/UstazProLego-setup.exe",
-    "notes":  "Исправлены работа с файлами автора при публикации и переносе проекта, выбор элементов интерактивностей, дублирование ответов теста и навигация по уроку.",
-    "sha256":  "D2D60778E1FC70A0E059EA1DCBFE835A7FED21D69BAA5CC4333342F1F35DD386",
-    "sizeBytes":  121714688
+    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.141/UstazProLego-setup.exe",
+    "notes":  "Добавлены 306 готовых фотографий для слайдов и диалогов: 156 предметов, 60 персонажей и 90 фонов. Улучшены подписи и поиск в библиотеке, отображение тестов и интерактивностей, работа с видео, сохранение прогресса и публикация уроков.",
+    "sha256":  "A6A32B4081EA12F4DD5CF2E8297E8C64A17ED4F93D11E6AF01F091F3730BB060",
+    "sizeBytes":  514947584
 }
