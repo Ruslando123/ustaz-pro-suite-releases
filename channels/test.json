@@ -1,8 +1,8 @@
 {
-    "latest":  "0.1.133",
+    "latest":  "0.1.134",
     "minSupported":  "0.1.0",
-    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.133/UstazProLego-setup.exe",
-    "notes":  "Исправлен перенос авторского проекта из архива .ustazproj при кратковременной блокировке папки в Windows.",
-    "sha256":  "6D583E0156BF73F289BADF9E7EF07FF9C87DA685FC7AE631CB9B1592B2D4B664",
-    "sizeBytes":  121718784
+    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.134/UstazProLego-setup.exe",
+    "notes":  "Исправлены работа с файлами автора при публикации и переносе проекта, выбор элементов интерактивностей, дублирование ответов теста и навигация по уроку.",
+    "sha256":  "D2D60778E1FC70A0E059EA1DCBFE835A7FED21D69BAA5CC4333342F1F35DD386",
+    "sizeBytes":  121714688
 }
