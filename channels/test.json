@@ -1,8 +1,8 @@
 {
-  "latest": "0.1.130",
-  "minSupported": "0.1.0",
-  "downloadUrl": "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.130/UstazProLego-setup.exe",
-  "notes": "Добавлен полноэкранный режим урока. Исправлен масштаб текста и содержимого тестов, диалогов и интерактивностей на больших и узких экранах. В интерактивностях этапы переключаются одной кнопкой «Далее».",
-  "sha256": "87A2274DB85DEABDB930C7EEB66E0967AE0CCA52D8636505118D2A9DB1632768",
-  "sizeBytes": 121706496
+    "latest":  "0.1.131",
+    "minSupported":  "0.1.0",
+    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.131/UstazProLego-setup.exe",
+    "notes":  "Исправлены навигация и сохранение прогресса в плеере, работа редакторов тестов и интерактивностей и перенос вложений при копировании.",
+    "sha256":  "2C6406213DA23CD04D5F51B0F243F531A51E4D23AA7A943E86EFA6C245FD9044",
+    "sizeBytes":  121706496
 }
