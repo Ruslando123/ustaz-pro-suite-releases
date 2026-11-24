@@ -1,8 +1,8 @@
 {
-    "latest":  "0.1.131",
+    "latest":  "0.1.132",
     "minSupported":  "0.1.0",
-    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.131/UstazProLego-setup.exe",
-    "notes":  "Исправлены навигация и сохранение прогресса в плеере, работа редакторов тестов и интерактивностей и перенос вложений при копировании.",
-    "sha256":  "2C6406213DA23CD04D5F51B0F243F531A51E4D23AA7A943E86EFA6C245FD9044",
-    "sizeBytes":  121706496
+    "downloadUrl":  "https://github.com/Ruslando123/ustaz-pro-suite-releases/releases/download/v0.1.132/UstazProLego-setup.exe",
+    "notes":  "Исправлена отмена монтажа записи экрана. При закрытии без сохранения добавленное видео не попадает в архив урока, а исходные файлы сохраняются.",
+    "sha256":  "A3DA0CC9E4B64F3545111053ACC1B2C11DDF9C71934F4A097114073C02AC6931",
+    "sizeBytes":  121714688
 }
